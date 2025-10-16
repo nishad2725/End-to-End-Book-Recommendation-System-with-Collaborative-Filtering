@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "end_to_end_book_recommender"
+version = "0.0.1"
+description = "End-to-end book recommendation system (editable install placeholder)"
+authors = [ { name = "nishad2725" } ]
